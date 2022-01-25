@@ -14,3 +14,5 @@
 - Run the init.js file `node init.js` and follow the prompts. 
 
 The file will output to the parent directory of this package.
+
+[Link to Demo Video](https://watch.screencastify.com/v/Ghf0SetdOt49RQh8pM5R)
