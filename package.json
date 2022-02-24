@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "inquirer": "^8.2.0"
+  },
+  "scripts": {
+    "start": "node init.js"
   }
 }
